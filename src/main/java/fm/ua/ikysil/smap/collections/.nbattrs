@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="FileInfoList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000378"/>
+    </fileobject>
+    <fileobject name="LineInfoList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000278"/>
+    </fileobject>
+    <fileobject name="SourceMapList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000578"/>
+    </fileobject>
+    <fileobject name="StratumList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000378"/>
+    </fileobject>
+    <fileobject name="UnknownInfoList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000578"/>
+    </fileobject>
+    <fileobject name="VendorInfoList.java">
+        <attr name="template" serialvalue="aced0005737200316f72672e6f70656e6964652e66696c6573797374656d732e4d756c746946696c654f626a65637424566f696456616c7565d9ec9c94d5fd3ca40c0000787077040000000478"/>
+    </fileobject>
+</attributes>
